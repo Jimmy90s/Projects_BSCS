@@ -21,6 +21,10 @@ Overall Course Competencies:
 - Object-Oriented Paradigm:
   - The graduate applies object-oriented programming concepts in order to create a basic application.
   
+  
+![Microsoft Visual Studio Debug Console 1_25_2023 7_06_51 PM](https://user-images.githubusercontent.com/103063112/218648784-058f09d7-8edf-4c02-9a2f-b0c2b154ebdd.png)
+
+
 Detailed Project Description and Evaluation Below:
 
 https://github.com/tonywilliams24/Scripting-and-Programing-Applications-Final-Project/blob/master/Project-Information-and-Evaluation/Project-Requirements.pdf
