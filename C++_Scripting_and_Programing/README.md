@@ -1,5 +1,6 @@
 # Scripting and Programing Applications - C++
-Final Project for Western Governors University class "Scripting and Programming Applications"
+Final Project for Western Governors University class "Scripting and Programming Applications".
+
 To run .sln project: place all .cpp and .h files in a single folder called student_data1. Then place student_data1 and .sln file into another folder together.
 Task:
 
