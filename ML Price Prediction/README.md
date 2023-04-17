@@ -1,7 +1,7 @@
 
 # ML Price Prediction
 
-This is my final capstone project for Western Governors University Software where I clean data using pandas and train a few machine learning model using sklearn.
+This is my final capstone project for Western Governors University Software where I cleaned data using pandas, visualized with seaborn and trained a few machine learning models using sklearn
 
 ### Skills
 - Python
