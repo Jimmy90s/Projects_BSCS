@@ -24,4 +24,5 @@ Western Governors University Software 2 Final Project. Advanced Java Concepts.
 - JavaFX SDK: openjfx-11.0
 - JDBC: mysql_connector_java_8.0.22
 
-https://github.com/Jimmy90s/assets/blob/main/images/C195.png
+
+![alt text](https://github.com/Jimmy90s/assets/blob/main/images/C195.png?raw=true)
