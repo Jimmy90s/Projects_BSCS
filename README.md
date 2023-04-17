@@ -24,6 +24,8 @@ Showcase of Java, SQL and Python Software Developer related projects and challen
 ### WGU BSCS Capstone Project
 This is my final capstone project for Western Governors University Software where I cleaned data using pandas, visualized with seaborn and trained a few machine learning models using sklearn
 - Machine learning model training
+- Data Cleaning
+- Data Visualization
 
 ## [Package Delivery Solution](https://github.com/Jimmy90s/Projects_BSCS/tree/main/Package%20Delivery%20Solution)
 
@@ -34,12 +36,12 @@ For this assessment, I applied the algorithms and data structures I studied in t
 ## [Scheduling Application](https://github.com/Jimmy90s/Projects_BSCS/tree/main/Scheduling%20Application)
 
 #### Sofware 2 Final Project
-Using JDBC to manipulate an external SQL Database
+- Using JDBC to manipulate an external SQL Database
 														Add, Retrieve, modify, delete items from a MySQL database respecting Foreign Key constraints.
 														Generating reports based on entities in the database
-														Supports user accounts and log-ins
+														- Supports user accounts and log-ins
 														Generate Notifications if there is an appointment within 15 minutes of log in
-														Localization using .properties
+														- Localization using .properties
 														Log log-ins into a .txt log file
 														Time Zone support and ZonedDateTime, LocalDateTime, Timestamp classes
 														Lambda Expressions,
