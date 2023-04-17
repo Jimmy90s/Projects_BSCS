@@ -39,11 +39,12 @@ For this assessment, I applied the algorithms and data structures I studied in t
 - Using JDBC to manipulate an external SQL Database
 														Add, Retrieve, modify, delete items from a MySQL database respecting Foreign Key constraints.
 														Generating reports based on entities in the database
-														- Supports user accounts and log-ins
+														
+- Supports user accounts and log-ins
 														Generate Notifications if there is an appointment within 15 minutes of log in
-														- Localization using .properties
+- Localization using .properties
 														Log log-ins into a .txt log file
-														Time Zone support and ZonedDateTime, LocalDateTime, Timestamp classes
+- Time Zone support and ZonedDateTime, LocalDateTime, Timestamp classes
 														Lambda Expressions,
 														JavaFX and User Interfaces
 - JavaFx GUI with JDBC to connect to a MySQL database.
