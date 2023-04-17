@@ -7,6 +7,7 @@ This is my final capstone project for Western Governors University Software wher
 - Python
 - Juypter Notebook
 - Pandas
+- Seaborn 
 - Sklearn
 
 ![alt text](https://github.com/Jimmy90s/assets/blob/main/images/AM.png?raw=true)
