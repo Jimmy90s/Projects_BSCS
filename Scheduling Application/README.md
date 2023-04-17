@@ -2,7 +2,9 @@
 # Scheduling Application - C195 Performance Evaluation
 
 ### PURPOSE:
-Western Governors University Software 2 Final Project. Advanced Java Concepts. ##FUNCTIONALITIES/ DEMONSTRATED SKILLS:
+Western Governors University Software 2 Final Project. Advanced Java Concepts.
+
+### FUNCTIONALITIES/ DEMONSTRATED SKILLS:
 
 - Using JDBC to manipulate an external SQL Database
 - Add, Retrieve, modify, delete items from a MySQL database respecting Foreign Key constraints.
